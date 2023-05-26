@@ -1,0 +1,80 @@
+[
+    {
+        "id": "0",
+        "img": "https://raw.githubusercontent.com/Sazzads/imageForAssignment-9/main/chef/Chef%20Fakruddin.jpg",
+        "name": "Chef Fakruddin",
+        "experience": "50years",
+        "recipeNumber": "3",
+        "Likes": 335,
+        "bio": "Since 1966, Haji Fakruddin had challenged outrageous financial hardships since his move to Bangladesh. He amid a stretch to squeeze out a work, he was acquainted with Muslim Miah, a culinary specialist to the Nawabs of India.",
+        "rating": {
+            "number": 5,
+            "badge": "Excellent"
+        }
+    },
+    {
+        "id": "1",
+        "img": "https://raw.githubusercontent.com/Sazzads/imageForAssignment-9/main/chef/Chef%20Asad%20Latif.jpg",
+        "name": "Chef Asad Latif",
+        "experience": "10years",
+        "recipeNumber": "3",
+        "Likes": 553,
+        "bio": "He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh",
+        "rating": {
+            "number": 5,
+            "badge": "Excellent"
+        }
+    },
+    {
+        "id": "2",
+        "img": "https://raw.githubusercontent.com/Sazzads/imageForAssignment-9/main/chef/Chef%20Tony.jpg",
+        "name": "Chef Tony",
+        "experience": "50years",
+        "recipeNumber": "3",
+        "Likes": 322,
+        "bio": "Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh.",
+        "rating": {
+            "number": 4,
+            "badge": "Excellent"
+        }
+    },
+    {
+        "id": "3",
+        "img": "https://raw.githubusercontent.com/Sazzads/imageForAssignment-9/main/chef/Manik%20Miah.jpg",
+        "name": "Manik Miah",
+        "experience": "40years",
+        "recipeNumber": "3.5",
+        "Likes": 367,
+        "bio": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association.",
+        "rating": {
+            "number": 3,
+            "badge": "Excellent"
+        }
+    },
+    {
+        "id": "4",
+        "img": "https://raw.githubusercontent.com/Sazzads/imageForAssignment-9/main/chef/Chef%20Baisab.jpg",
+        "name": "Asmat Ali",
+        "experience": "20years",
+        "recipeNumber": "3",
+        "Likes": 383,
+        "bio": "Asmat Ali, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        }
+    },
+    {
+        "id": "5",
+        "img": "https://raw.githubusercontent.com/Sazzads/imageForAssignment-9/main/chef/Screenshot%202023-05-02%20170847.png",
+        "name": "Chef Kabir",
+        "experience": "33years",
+        "recipeNumber": "3",
+        "Likes": 239,
+        "bio": "Siddiqua Kabir (May 7, 1931 – January 31, 2012) was a Bangladeshi nutritionist, scholastic, cookbook writer andcooking show TV have.",
+        "rating": {
+            "number": 4,
+            "badge": "Excellent"
+        }
+    }
+]
